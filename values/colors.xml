@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#686464</color>
+    <color name="colorPrimaryDark">#A39B9B</color>
+    <color name="colorAccent">#FAD105</color>
+
+    <string-array name="colors" translatable="false">
+        <item>#F6C717</item>
+        <item>#ffbb33</item>
+    </string-array>
+
+
+</resources>

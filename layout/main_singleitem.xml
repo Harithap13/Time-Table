@@ -1,0 +1,50 @@
+<androidx.cardview.widget.CardView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="#A9AEAC"
+    android:elevation="4dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivMain"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="11dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvmain"
+            android:text="Timetable"
+            android:textStyle="bold"
+            android:layout_toRightOf="@+id/ivMain"
+            android:textSize="24sp"
+            android:layout_marginTop="7dp"
+            android:layout_marginLeft="7dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDesc"
+            android:text="Description"
+            android:layout_marginLeft="7dp"
+            android:layout_below="@+id/tvmain"
+            android:layout_toRightOf="@+id/ivMain"
+            android:textSize="16dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvclick"
+            android:layout_marginTop="7dp"
+            android:layout_alignParentRight="true"
+            android:text="Click Me"
+            android:textSize="12dp"
+            android:layout_alignBottom="@+id/ivMain"
+            android:layout_below="@+id/tvDesc"/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

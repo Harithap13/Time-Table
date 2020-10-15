@@ -1,0 +1,45 @@
+<androidx.cardview.widget.CardView
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="#A9AEAC"
+    android:elevation="4dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="125dp">
+
+        <com.example.timetable.Utils.LetterImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/ivDayDetails"
+            android:layout_margin="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDayDetails"
+            android:text="Subjects"
+            android:textStyle="bold"
+            android:layout_toRightOf="@+id/ivDayDetails"
+            android:layout_alignTop="@+id/ivDayDetails"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textSize="24sp"
+            android:layout_marginTop="7dp"
+            android:layout_marginLeft="7dp"/>
+        <TextView
+            android:id="@+id/tvTimeDayDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvDayDetails"
+            android:layout_toRightOf="@+id/ivDayDetails"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:textSize="18dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginEnd="13dp"
+            android:layout_marginRight="13dp"
+            android:text="Timings" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

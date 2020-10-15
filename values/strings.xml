@@ -1,0 +1,218 @@
+<resources>
+    <string name="app_name">Timetable</string>
+    <string-array name="Main">
+        <item>Timetable</item>
+        <item>Subjects</item>
+        <item>Assignment Dates</item>
+        <item>Staff Info</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>View weekly timetable</item>
+        <item>Subject details</item>
+        <item>Add any deadlines here</item>
+        <item>See staff contact details</item>
+    </string-array>
+
+    <string-array name="staff">
+        <item>Prof. Anitha K</item>
+        <item>Prof. Raman V</item>
+        <item>Prof. Keerthana S</item>
+        <item>Prof. Jessy J</item>
+        <item>Prof. Murthy A</item>
+    </string-array>
+
+    <string-array name="email">
+        <item>anithak@gmail.com</item>
+        <item>raman_v@gmail.com</item>
+        <item>keerthanaS@hotmail.com</item>
+        <item>profjenny@gmail.com</item>
+        <item>murhty_a@hotmail.com</item>
+    </string-array>
+
+    <string-array name="phone">
+        <item>9029319494</item>
+        <item>8079819426</item>
+        <item>9023314495</item>
+        <item>9993144954</item>
+        <item>9049519697</item>
+    </string-array>
+
+    <string-array name="Subjects">
+        <item>FOUNDATIONAL ENGLISH</item>
+        <item>MATHEMATICS 1</item>
+        <item>ENGINEERING PHYSICS </item>
+        <item>ENGINEERING CHEMISTRY </item>
+        <item>ENGINEERING GRAPHICS </item>
+        <item>BASIC SCIENCES LABORATORY </item>
+    </string-array>
+
+
+    <string-array name="English">
+        <item> Listening- Types of Listening – Listening to Short Talks, conversations; Speaking – Speaking about One‘s Place, Important Festivals etc. – Introducing oneself, one‘s family/ friend; Reading – Skimming a Passage– Scanning for specific information; Writing- Guided Writing - Free writing on any given topic ( My Favorite Place/ Hobbies/ School Life, Writing about one‘s Leisure Time Activities, hometown, etc.); Grammar – Tenses (present and present continuous) -Question types - Regular and Irregular Verbs; Vocabulary – Synonyms and Antonyms. </item>
+        <item> Listening – Listening and Responding to instructions; Speaking – Telephone Etiquette - Giving Oral Instructions/ Describing a Process – Asking and Answering Questions; Reading – Reading and Finding Key Information in a Given Text - Critical Reading - Writing – Process Description (non-technical)- Grammar – Tense - Use of Imperatives – Subject – verb agreement – Active and Passive Voice; - Vocabulary – Compound Words – Word Formation – Word Expansion ( root words).</item>
+        <item> Listening- Listening to Lectures/ Talks and Completing a Task; Speaking –Role play/ Simulation – Group interaction; Reading – Reading and Interpreting Visual Material; Writing- Jumbled Sentences – Discourse Markers and Cohesive Devices – Essay Writing ;Grammar – Tenses (perfect), Conditional Clauses –Modal verbs; Vocabulary –Cause and Effect Words; Phrasal Verbs in Context.</item>
+        <item> Listening- Watching Videos/ Documentaries and Responding to Questions based on them; Speaking Informal and Formal Conversation; Reading –Critical reading (prediction and inference);Writing–Essay writing  – Interpretation of Visual Materials; Grammar – Tenses (future time reference);Vocabulary – One Word Substitutes (with meanings) – Use of Abbreviations and Acronyms – Idioms in Sentences. </item>
+        <item> Listening- Listening to Programs/Broadcast/ Telecast/ Podcast; Speaking – Giving impromptu Talks, Making Presentations on given Topics- Discussion on the Presentation; Reading –Extensive Reading; Writing- Poster Making – Letter Writing (Formal and E-mail) ;Grammar – Direct and Indirect Speech – Combining Sentences using Connectives; Vocabulary –Collocation;</item>
+        <item> 1. Richards, Jack. C with Jonathan Hull and Susan Proctor,‖ New Interchange : English for International Communication. (level2, Student‘s Book)‖, Cambridge University Press, 2010.</item>
+    </string-array>
+
+    <string-array name="Mathematics">
+        <item> Representation of functions - New functions from old functions - Limit of a function - Limits at infinity - Continuity - Derivatives - Differentiation rules - Polar coordinate system - Differentiation in polar coordinates - Maxima and Minima of functions of one variable. </item>
+        <item> Partial derivatives – Homogeneous functions and Euler’s theorem – Total derivative – Differentiation of implicit functions – Change of variables – Jacobians – Partial differentiation of implicit functions – Taylor’s series for functions of two variables – Errors and approximations – Maxima and minima of functions of two variables – Lagrange’s method of undetermined multipliers. </item>
+        <item> Definite and Indefinite integrals - Substitution rule - Techniques of Integration - Integration by parts, Trigonometric integrals, Trigonometric substitutions, Integration of rational functions by partial fraction, Integration of irrational functions - Improper integrals. </item>
+        <item> Double integrals – Change of order of integration – Double integrals in polar coordinates – Area enclosed by plane curves – Triple integrals – Volume of solids – Change of variables in double and triple integrals. </item>
+        <item> Method of variation of parameters – Method of undetermined coefficients – Homogenous equation of Euler’s and Legendre’s type – System of simultaneous linear differential equations with constant coefficients. </item>
+        <item> 1. James Stewart, "Calculus with Early Transcendental Functions", Cengage Learning, New Delhi, 2008.
+        2. Narayanan S. and Manicavachagom Pillai T. K., “Calculus" Volume I and II, S. Viswanathan Publishers Pvt. Ltd., Chennai, 2007.
+        3. Erwin Kreyszig, "Advanced Engineering Mathematics", John Wiley and Sons, 9th Edition, New Delhi, 2014.
+        4. Grewal B.S., “Higher Engineering Mathematics”, Khanna Publishers, New Delhi, 43rd Edition, 2014. </item>
+    </string-array>
+
+    <string-array name="Physics">
+        <item> Elasticity – Poisson’s ratio and relationship between moduli (qualitative) - stress-strain diagram for ductile and brittle materials, uses - factors affecting elastic modulus and tensile strength - bending of beams - cantilever - bending moment - Young’s modulus determination - theory and experiment - uniform and non-uniform bending - I shaped girders - twisting couple - hollow cylinder - shaft - torsion pendulum - determination of rigidity modulus- moment of inertia of a body (regular and irregular). </item>
+        <item> Classification of sound - loudness and intensity - Weber-Fechner Law - standard intensity and intensity level - decibel - reverberation - reverberation time - calculation of reverberation time for different types of buildings – sound absorbing materials - factors affecting acoustics of buildings : focussing, interference, echo, echelon effect, resonance - noise and their remedies. Ultrasonics: production - magnetostriction and piezoelectric methods - detection of ultrasound - acoustic grating – ultrasonic interferometer - industrial applications – Non-destructive testing - ultrasonic method: scan modes and practice. </item>
+        <item> Thermal expansion - thermal stress - expansion joints - bimetallic strips - thermal conductivity- heat conductions in solids – flow of heat through compound media - Forbe’s and Lee’s disc method: theory and experiment- Black body radiation – Planck’s theory (derivation) – Compton effect – wave model of radiation and matter – Schrödinger’s wave equation – time dependent and independent equations – Physical significance of wave function – particle in a one dimensional box. </item>
+        <item> Interference - Michelson interferometer: construction, working, determination of wave length and thickness - anti-reflection coating - air wedge and its applications - Lasers – principle and applications – Einstein’s coefficients – CO2 and Nd:YAG laser - semiconductor lasers: homo junction and hetro junction - construction and working – applications. Optical fibres - classification (index and mode based) - principle and propagation of light in optical fibres - acceptance angle and numerical aperture - fibre optic communication system - active and passive sensors. </item>
+        <item> Single crystalline, polycrystalline and amorphous materials – Single crystals: unit cell, crystal systems, Bravais lattices, ditections and planes in a crystal, Miller indices - interplanar distance for a cubic crystal - coordination number and packing factor for SC, BCC, FCC, HCP and diamond structures - structure and significance of NaCl, CsCl, ZnS and graphite - crystal imperfections: point defects, line defects – Burger vectors, dislocations and stacking faults – Growth of single crystals: Bridgman and Czochralski methods. </item>
+        <item> 1. Gaur R.K. and Gupta S.L., “Engineering Physics”, Dhanpat Rai Publications (2013)
+    2. Palanisamy P.K., “Engineering Physics”, Scitech Publications (P) Ltd. (2006).
+    3. Arumugam M., “Engineering Physics”, Anuradha Publications (2000) </item>
+    </string-array>
+
+    <string-array name="Chemistry">
+        <item> Introduction: Functionality-degree of polymerization. Classification of polymers- natural and synthetic, thermoplastic and thermosetting. Types and mechanism of polymerization: addition (free radical, cationic, anionic and living); condensation and copolymerization. Properties of polymers: Tg, tacticity, molecular weight-weight average, number average and polydispersity index. Techniques of polymerization: Bulk, emulsion, solution and suspension </item>
+        <item> Adsorption-Types of adsorption-adsorption of gases on solids- adsorption from solutions- Types of isotherms–Frendlich adsorption isotherm,Langmuir adsorption isotherm.Industrial applications of adsorption. Catalysis: Characteristics and types of catalysts-homogeneous and heterogeneous, auto catalysis. Enzyme catalysis -factors affecting enzyme catalysis, Michaelis-Menton equation.Industrial applications of catalysts. </item>
+        <item> Photochemistry: Laws of photochemistry-Grotthuss-Draper law, Stark-Einstein law and Lambert-Beer Law. Photo processes-internal conversion, inter-system crossing, fluorescence, phosphorescence, chemiluminescence and photo-sensitization. Spectroscopy: Electromagnetic spectrum-absorption of radiation-electronic, vibrational and rotational transitions. Width and intensities of spectral lines.Spectrophotometric estimation of iron.UV-Vis and IR spectroscopy- principles, instrumentation (Block diagram) and applications. </item>
+        <item> Second law: Entropy-entropy change for an ideal gas, reversible and irreversible processes; entropy of phase transitions; Free energy and work function: Helmholtzand Gibbs free energy functions; Criteria of spontaneity; Gibbs-Helmholtz equation; Clausius Clapeyron equation; Maxwell relations-Van’t Hoff isotherm and isochore. Chemical potential; Gibbs-Duhem equation- variation of chemical potential with temperature and pressure. </item>
+        <item> Basics-distinction between molecules, nanoparticles and bulk materials; size-dependent properties. Preparation of nanoparticles – sol-gel and solvothermal.preparation of carbon nanotube by chemical vapour deposition and laser ablation.Preparation of nanowires by VLS growth, electrochemical deposition and electro spinning.Properties and uses of nanoparticles, nanoclusters, nanorods, nanotubes and nanowires. </item>
+        <item> 1. Jain P. C. and Monica Jain., “Engineering Chemistry”, DhanpatRai Publishing Company (P) Ltd, New Delhi, 2014.
+    2. Kannan P., Ravikrishnan A., “Engineering Chemistry”, Sri Krishna Hitech Publishing Company Pvt. Ltd. Chennai, 2014 </item>
+    </string-array>
+
+    <string-array name="EG">
+<item> Basic Geometrical constructions, Curves used in engineering practices-Conics – Construction of ellipse, parabola and hyperbola by eccentricity method – Construction of cycloid – construction of involutes of square and circle – Drawing of tangents and normal to the above curves. Visualization concepts and Free Hand sketching: Visualization principles –Representation of Three Dimensional objects – Layout of views- Free hand sketching of
+    23
+    multiple views from pictorial views of objects </item>
+        <item> Orthographic projection- principles-Principal planes-First angle projection-Projection of points.Projection of straight lines (only First angle projections) inclined to both the principal planes- Determination of true lengths and true inclinations by rotating line method and trapezoidal method and traces Projection of planes (polygonal and circular surfaces) inclined to both the principalplanes by rotating object method. </item>
+        <item> Projection of simple solids like prisms, pyramids, cylinder, cone and truncated solids when the axis is inclined to both the principal planes by rotating object method and auxiliary plane method. </item>
+        <item> Sectioning of solids in simple vertical position when the cutting plane is inclined to the one of the principal planes and perpendicular to the other – obtaining true shape of section.
+    Development of lateral surfaces of simple and sectioned solids – Prisms, pyramids cylinders and cones. Development of lateral surfaces of solids with cut-outs and holes </item>
+        <item> Principles of isometric projection – isometric scale –Isometric projections of simple solids and truncated solids - Prisms, pyramids, cylinders, cones- combination of two solid objects in simple vertical positions and miscellaneous problems.
+    Perspective projection of simple solids-Prisms, pyramids and cylinders by visual ray method and vanishing point method. </item>
+        <item> 1. N.D.Bhatt and V.M.Panchal, “Engineering Drawing”, Charotar Publishing House, 50thEdition, 2010. </item>
+    </string-array>
+
+    <string-array name="ScienceLab">
+<item> 1. Torsional pendulum - Determination of rigidity modulus of wire and moment of inertia of disc
+    2. Non-uniform bending - Determination of young’s modulus
+    3. Uniform bending – Determination of young’s modulus </item>
+        <item> 1. Lee’s disc Determination of thermal conductivity of a bad conductor
+    2. Potentiometer-Determination of thermo E.M.F of a thermocouple
+    3. Laser- Determination of the wave length of the laser using grating </item>
+        <item> 1. Post office box -Determination of Band gap of a semiconductor.
+    2. Spectrometer- Determination of wavelength using gating.
+    3. Viscosity of liquids - Determination of co-efficient of viscosity of a liquid by
+    Poiseuille’s flow </item>
+        <item> 1. Estimation of HCl using Na2CO3 as primary standard and Determination of alkalinity in water sample.
+    2. Determination of total, temporary and permanent hardness of water by EDTA method.
+    3. Determination of DO content of water sample by Winkler’s method.
+    4. Determination of chloride content of water sample by argentometric method.
+    5. Estimation of copper content of the given solution by Iodometry. </item>
+        <item> 1. Determination of molecular weight of poly vinyl alcohol using Ostwald viscometer.
+    2. Pseudo first order kinetics-ester hydrolysis.
+    3. Corrosion experiment-weight loss method.
+    4. Determination of CMC.
+    5. Phase change in a solid.</item>
+        <item> 1. Vogel’s Textbook of Quantitative Chemical Analysis (8TH edition, 2014) 2. Laboratory Manual- Department of Chemistry, CEGC, Anna University (2014). </item>
+    </string-array>
+
+
+    <string-array name="titles">
+        <item> Unit 1 </item>
+        <item> Unit 2 </item>
+        <item> Unit 3 </item>
+        <item> Unit 4 </item>
+        <item> Unit 5 </item>
+        <item> Recommended Textbooks </item>
+    </string-array>
+
+
+    <string name="tabbed_app">Daily Activity</string>
+    <string name="tab_text_1">Unit-1</string>
+    <string name="tab_text_2">Unit-2</string>
+    <string name="tab_text_3">Unit-3</string>
+    <string name="tab_text_4">Unit-4</string>
+    <string name="tab_text_5">Unit-5</string>
+    <string name="tab_text_6">Resources</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>FOUNDATIONAL ENGLISH</item>
+        <item>MATHEMATICS 1</item>
+        <item>Break</item>
+        <item>ENGINEERING CHEMISTRY </item>
+        <item>ENGINEERING GRAPHICS </item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>ENGINEERING GRAPHICS </item>
+        <item>BASIC SCIENCES LABORATORY </item>
+        <item>Break</item>
+        <item>MATHEMATICS 1</item>
+        <item>ENGINEERING PHYSICS </item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>MATHEMATICS 1</item>
+        <item>ENGINEERING PHYSICS </item>
+        <item>Break</item>
+        <item>FOUNDATIONAL ENGLISH</item>
+        <item>SELF STUDY</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>MATHEMATICS 1</item>
+        <item>MATHEMATICS 1</item>
+        <item>Break</item>
+        <item>ENGINEERING CHEMISTRY </item>
+        <item>ENGINEERING GRAPHICS </item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item>ENGINEERING PHYSICS </item>
+        <item>ENGINEERING CHEMISTRY </item>
+        <item>Break</item>
+        <item>ENGINEERING GRAPHICS </item>
+        <item>ENGINEERING GRAPHICS </item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item>FOUNDATIONAL ENGLISH</item>
+        <item>FOUNDATIONAL ENGLISH</item>
+        <item>Break</item>
+        <item>BASIC SCIENCES LABORATORY </item>
+        <item>BASIC SCIENCES LABORATORY </item>
+    </string-array>
+
+    <string-array name="time1">
+        <item>8:55AM - 9:50AM</item>
+        <item>9:50AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+    </string-array>
+    <string name="title_activity_tabbed_app">TabbedApp</string>
+
+</resources>
