@@ -1,12 +1,16 @@
 # Time-Table Management App
 Mobile Application Development 
+
 Mini – Project 
 
 Team:
+
 Haritha Poornachandran - 2017103057 
 
 Srimathi Mahalingam- 2017103066 
+
 Muthumalini M- 2018102037 
+
 Jeevan Sneha- 2018102022 
 
 
