@@ -14,7 +14,7 @@ Muthumalini M- 2018102037
 Jeevan Sneha- 2018102022 
 
 
-Description and Output: 
+# Description: 
 
 The app is built using Android Studio (Java). It has 4 modules. 
 
